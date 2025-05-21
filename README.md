@@ -1,5 +1,5 @@
 - 👋 Olá, Sou Fábio Nascimento @Binho-do-Boa, sou Graduado em Redes de Computadores e MBA em Redes Distribuídas. 
-- 👀 Atualmente estou trabalhando na área de Infra e Segurança da Infomação e cursando Ciências de Dados na #UFMT. 
+- 👀 Atualmente estou trabalhando na área de Infra e Segurança da Infomação e cursando Pós em Ciências de Dados na #UFMT. 
 - 🌱 Estou interessado em aprender DEVOPS, uma área promissora que me chamou muito atenção.
 - 💞️ Estou sempre à procura de novos conhecimentos, desafios para evolução pessoal e profissional. 
 - 📫 Estou buscando conhecimento aqui no Git e também em cursos no youtube.
